@@ -16,6 +16,7 @@ Install dependencies:
 
 ```bash
 pip install nltk
+```
 
 ---
 
